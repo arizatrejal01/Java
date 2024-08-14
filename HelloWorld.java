@@ -92,6 +92,7 @@ public class HelloWorld
  *
 */
 
+/*
 class HelloWorld
 {
 	public static void main(String[] args)
@@ -100,3 +101,4 @@ class HelloWorld
 		System.out.println("It is awesome");
 	}
 }
+*/
